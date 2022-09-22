@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [zeilscholen.app](https://zeilscholen.app) and other projects with in Buchung
+- 🔭 I’m currently working on [Zeilscholen.app](https://zeilscholen.app) and other projects with in [Buchung](https://buchung.notion.site/Buchung-Job-Board-747c8e1de01c4b67b28b84b8ae16bceb)
   
 - 🌱 I’m currently studying [TCS](https://www.utwente.nl/en/education/bachelor/programmes/technical-computer-science/) at [UTwente](https://www.utwente.nl/en) 
  
