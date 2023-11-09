@@ -5,8 +5,7 @@
 - 🌱 I’m currently studying [TCS](https://www.utwente.nl/en/education/bachelor/programmes/technical-computer-science/) at [UTwente](https://www.utwente.nl/en) 
  
 <div align="center"> 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DJ1TJOO&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DJ1TJOO)](https://git.io/streak-stats)</div>
 <div align="center"?
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=DJ1TJOO&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true"/></a>
